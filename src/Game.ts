@@ -10,6 +10,7 @@ module Scumbag
 
       this.state.add('Boot',Boot,false);
       this.state.add('Preloader',Preloader,false);
+      this.state.add('MainMenu',Preloader,false);
 
       this.state.start('Boot');
     }
