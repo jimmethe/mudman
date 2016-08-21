@@ -1,0 +1,10 @@
+{
+    "main":
+    [
+        {
+            "type": "spritesheet", "key": "mudman", "url": "images/mudmanwalk.png",
+            "frameWidth":16,"frameHeight":64
+        },
+        {"type": "image", "key": "tilesheet", "url": "images/Tilesheet.png"},
+        {"type": "image", "key": "ground", "url": "images/platform.png"}
+    ]}
